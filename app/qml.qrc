@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MovieInfoBox.qml</file>
+        <file>InteractiveButtons.qml</file>
+        <file>MoviePlayer.qml</file>
+        <file>MovieSelectorFlow.qml</file>
+        <file>assets</file>
+        <file>assets/images</file>
+        <file>assets/images/buttons</file>
+    </qresource>
+</RCC>

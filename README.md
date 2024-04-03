@@ -10,7 +10,6 @@ Skeleton design:
 **Online QML compiler for quick previews:**
 https://patrickelectric.work/qmlonline/
 
-
 **When creating new project just choose:**
 
 Build system qmake
@@ -18,7 +17,6 @@ Build system qmake
 Leave minimal required Qt version default option (should be Qt 5.12)
 
 In Kit Seleciton choose Desktop
-
 
 **To be able to use QMultiMedia module:**
 

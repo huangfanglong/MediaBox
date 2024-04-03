@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tst_InteractiveButtons.qml</file>
+        <file>tst_MoviePlayer.qml</file>
+        <file>tst_MovieInfoBox.qml</file>
+        <file alias="MoviePlayer.qml">../app/MoviePlayer.qml</file>
+        <file alias="InteractiveButtons.qml">../app/InteractiveButtons.qml</file>
+        <file alias="MovieInfoBox.qml">../app/MovieInfoBox.qml</file>
+        <file alias="MovieSelectorFlow.qml">../app/MovieSelectorFlow.qml</file>
+    </qresource>
+</RCC>

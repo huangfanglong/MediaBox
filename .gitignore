@@ -1,0 +1,4 @@
+# project user files and build files
+*.pro.user
+*.qmlproject.qtds
+*build-*
